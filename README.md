@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vusky102
 - 👀 I’m interested in games and programming
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning dart/flutter
 - 💞️ I’m looking to collaborate on mobile apps dev
 - 📫 How to reach me vusky102@yahoo.com
 
